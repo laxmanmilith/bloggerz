@@ -13,9 +13,9 @@ const Footer = () => {
     {
       name: "LinkedIn",
       icon: linkedin,
-      link: "https://www.linkedin.com/in/araayanbharti/",
+      link: "https://www.linkedin.com/in/milithlaxman/",
     },
-    { name: "GitHub", icon: github, link: "https://github.com/arayanbharti" },
+    { name: "GitHub", icon: github, link: "https://github.com/laxmanmilith" },
     // {
     //   name: "Portfolio",
     //   icon: portfolio,
@@ -55,7 +55,7 @@ const Footer = () => {
       </nav>
 
       <p className="text-center mt-4 lg:mt-0 text-sm">
-        &copy; Aryan Bharti
+        &copy; milith laxman
       </p>
     </footer>
   );
